@@ -1,8 +1,9 @@
-# Enterprise Wireless Network Coverage Optimization Using Heatmap Analysis
 
 <p align="center">
   <img src="images/banner.png" width="100%">
 </p>
+
+# Enterprise Wireless Network Coverage Optimization Using Heatmap Analysis
 
 ## 📌 Executive Summary
 
