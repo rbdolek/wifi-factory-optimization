@@ -2,15 +2,6 @@
 
 <p align="center">
   <img src="images/banner.png" width="100%">
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
-
-![Case Study](https://img.shields.io/badge/Engineering-Case%20Study-blue)
-
-![Network](https://img.shields.io/badge/Domain-Wireless%20Networking-00599C)
-
-![Tool](https://img.shields.io/badge/Tool-NetSpot-orange)
-
-![License](https://img.shields.io/badge/License-MIT-green)
 </p>
 
 ## 📌 Executive Summary
