@@ -1,11 +1,8 @@
 # Enterprise Wireless Network Coverage Optimization Using Heatmap Analysis
 
 <p align="center">
-  <strong>Engineering Case Study</strong><br>
-  Data-Driven Wi-Fi Infrastructure Analysis • Heatmap-Based Coverage Assessment • Access Point Planning
+  <img src="images/banner.png" width="100%">
 </p>
-
----
 
 ## 📌 Executive Summary
 
